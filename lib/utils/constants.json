@@ -143,6 +143,7 @@
     "VadDetected": "azure_transcribe::vad_detected"
   },
   "SpeechmaticsTranscriptionEvents": {
+    "EndOfUtterance": "speechmatics_transcribe::end_of_utterance",
     "Transcription": "speechmatics_transcribe::transcription",
     "Translation": "speechmatics_transcribe::translation",
     "Info": "speechmatics_transcribe::info",
